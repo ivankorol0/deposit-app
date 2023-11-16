@@ -1,13 +1,15 @@
-#### To start simply install dependencies and start dev server
+To start simply install dependencies and start dev server
 ### `yarn install`
 ### `yarn start`
 
+
+#### Sketch
 I stated with a sketch of a design in Figma. Doing so allows to see exact user flows thus reduces amount of decisions to make while coding implementation.
 I use [React MUI](https://mui.com/) design system for Figma and [MUI React Components](https://mui.com/material-ui/react-autocomplete/) in react application - this additionally reduces amount of decisions to make, 
 because components in React implements the design system (almost). This is not a cutting edge design, 
 but is a good baseline to start from somewhere and make UI look OK without investing much effort. 
 
-Here is [the sketch](https://www.figma.com/file/fX6XLbnl9lJN8qAaqASMYu/DepositPage?type=design&node-id=0%3A1&mode=design&t=0Sw7mgcUEipuZp4u-1]
+Here is the sketch: https://www.figma.com/file/fX6XLbnl9lJN8qAaqASMYu/DepositPage?type=design&node-id=0%3A1&mode=design&t=0Sw7mgcUEipuZp4u-1
 
 #### Functionality
 I kept the task to an absolute minimum functionality requested in the test. This means that Login, authentication, 
